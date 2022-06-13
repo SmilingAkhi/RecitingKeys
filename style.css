@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: goldenrod;
+}
+.text {
+  color: black;
+  font-family: monospace;
+  text-align: center;
+  font-size: 30px;
+}
